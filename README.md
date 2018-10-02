@@ -6,9 +6,9 @@ Abuse Github Issues to handle requests for Talks to be held.
 
 A talk */tɔːk/* is a kind of lecture or presentation where a speaker is sharing his knowledge or ideas to an audience.
 
-We in Reaktor 23 try to have those talks in irregular intervals to share knowledge, sometimes in a on-demand fashion because one or more persons are touching a specific topic. 
+We at Reaktor 23 try to have those talks in irregular intervals to share knowledge, sometimes in a on-demand fashion because one or more persons are touching a specific topic. 
 
-Those talks should be not too long and allow room for questions, examples and even hand-ons. Target a presentation time of somehow 30 to 60 minutes.
+Those talks should be not too long and allow room for questions, examples and even hand-ons. Target a presentation time of somewhere between 30 to 60 minutes.
 
 ## Request / offer a Talk
 
